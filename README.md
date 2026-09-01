@@ -1,4 +1,4 @@
-# india-gov-accessibility-audit # india-gov-accessibility-audit
+# india-gov-accessibility-audit
 Full Stack Web Development Internship - RabTech Academy
 
 ## Objective
